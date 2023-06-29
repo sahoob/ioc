@@ -1,2 +1,1 @@
-# ioc
-infra as code
+# terraform
